@@ -1,6 +1,6 @@
 body#body-styles {
     max-width: 1440px;
-    margin: 0;
+    margin-top: 100px;
     display: flex;
     justify-content: center;
     background-color: hsl(212, 45%, 89%);
