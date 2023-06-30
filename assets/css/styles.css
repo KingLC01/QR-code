@@ -1,5 +1,5 @@
 body#body-styles {
-    max-width: 1440px;
+/*     max-width: 1440px; */
     margin-top: 100px;
     display: flex;
     justify-content: center;
@@ -18,7 +18,7 @@ body#body-styles {
     width: 100%;
     padding: 15px ;
     border-radius: 20px;
-    margin: 50%;
+/*     margin: 50%; */
 
 }
 
@@ -26,6 +26,7 @@ body#body-styles {
     display: block;
     margin-left: auto;
     margin-right: auto;
+     margin-top:2px;
     border-radius: 8px;
     width: 290px;
 
